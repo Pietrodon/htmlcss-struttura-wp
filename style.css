@@ -45,16 +45,15 @@
     background-color: rgb(0,0,255);
     min-width: 21px;
     min-height: 550px;
-    position: absolute;
-    left: 234px;
-    top: 16%;
+    float: left;
+    margin-left: 20%;
+    margin-top: 8.5% ;
 }
 .divisore-right{
     background-color: rgb(0,0,255);
     min-width: 21px;
     min-height: 550px;
-    position: absolute;
-    right: 234px;
-    top: 16%;
-
+    float: left;
+    margin-left: 55%;
+    margin-top: 8.5%;
 }
