@@ -1,0 +1,37 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.contenitore{
+    min-width: 1171px;
+    min-height: 138px;
+    background-color: purple;
+    margin: 0 150px;
+}
+.blocco-iniziale{
+    min-width: 1168px;
+    min-height: 491px;
+    background-color: palegoldenrod;
+    margin: 37px 150px;
+}
+.blocco-centrale{
+    min-width: 1168px;
+    min-height: 670px;
+    background-color: rgb(115, 206, 248);
+    margin: 37px 150px;
+    position: relative;
+}
+.blocco-finale{
+    min-width: 1168px;
+    min-height: 65px;
+    background-color: rgb(252, 145, 225);
+    margin: 37px 150px;
+}
+.divisore{
+    background-color: rgb(255, 51, 0);
+    min-width: 100%;
+    min-height: 21px;
+    position: absolute;
+    top: 13%;
+
+}
