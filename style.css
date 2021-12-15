@@ -27,11 +27,34 @@
     background-color: rgb(252, 145, 225);
     margin: 37px 150px;
 }
-.divisore{
-    background-color: rgb(255, 51, 0);
+.divisore-top{
+    background-color: rgb(0,0,255);
     min-width: 100%;
     min-height: 21px;
     position: absolute;
     top: 13%;
+}
+.divisore-bottom{
+    background-color: rgb(0, 0,255);
+    min-width: 100%;
+    min-height: 21px;
+    position: absolute;
+    bottom: 0;
+}
+.divisore-left{
+    background-color: rgb(0,0,255);
+    min-width: 21px;
+    min-height: 550px;
+    position: absolute;
+    left: 234px;
+    top: 16%;
+}
+.divisore-right{
+    background-color: rgb(0,0,255);
+    min-width: 21px;
+    min-height: 550px;
+    position: absolute;
+    right: 234px;
+    top: 16%;
 
 }
